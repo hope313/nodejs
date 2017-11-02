@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_notepad_croller",
+  "version": "1.0.0",
+  "main": "main_httprequest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cheerio-httpcli": "^0.7.1"
+  }
+}
